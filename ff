@@ -1,0 +1,9 @@
+#!/bin/env python
+# -*- coding: UTF-8 -*-
+# Copyright 2023 8lurry <sharifmehedi24@outlook.com>
+# License: GNU Affero General Public License v3 (see file COPYING for details)
+
+from fast_forward import main
+
+if __name__ == "__main__":
+    main()
